@@ -1,2 +1,16 @@
-# sangavril04.github.io
-Portofolio pribadi Avril Irvan Faradilach — Sangavril Edition. Berisi kumpulan karya mulai dari ECU Simulator berbasis Arduino, optimasi sistem Android, hingga solusi otomatisasi &amp; administrasi. Dibuat dengan HTML, CSS, JavaScript — responsif &amp; modern dark theme.
+# Sangavril Portfolio — Avril Irvan Faradilach
+
+🌐 **Live Website:** [sangavril04.github.io](https://sangavril04.github.io)
+
+> Portofolio pribadi — menampilkan proyek, keahlian, dan perjalanan dalam pengembangan hardware, perangkat lunak, dan optimasi sistem.
+
+## 🛠️ Teknologi
+- HTML5 · CSS3 · JavaScript
+- Tailwind CSS · Remix Icons
+- Responsif · Dark Theme · Animasi Halus
+
+## 📂 Proyek Utama
+- ECU Simulator berbasis Arduino
+- Optimasi Sistem Android
+- Otomatisasi & Administrasi
+- Web Development
